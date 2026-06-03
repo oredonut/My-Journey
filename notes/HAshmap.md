@@ -1,0 +1,1 @@
+A hashMAp is a data structure that ets you store a key and a value
