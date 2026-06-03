@@ -1,5 +1,5 @@
 # My Coding Journey 
-This repository contains my learning progressin dsa, algorithms and small proects.
+This repository contains my learning progress in dsa, algorithms and small projects.
 
 ## Structure
 -LC/- solved problems
